@@ -86,3 +86,8 @@ a {
 li {
     font-family: "Poppins";
 }
+
+.orange-border {
+    border-left: 4px solid orange;
+    padding-left: 5%;
+}
