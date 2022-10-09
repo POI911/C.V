@@ -1,0 +1,88 @@
+.container {
+    margin: 0 0 9% 11%; 
+}
+
+.upper-hexagon {
+    width: 28rem;
+    height: 21rem;
+    position: absolute;
+}
+
+.personal-photo {
+    border: 4px solid orange;
+    margin: 3rem 0 0 3rem;
+    border-radius: 100%;
+    width: 12rem;
+    height: 12rem;
+    position:relative;
+}
+
+.name-intro {
+    margin-top: 10%;
+    
+
+   
+}
+h1 {
+    
+    font-family: "Poppins";
+    display: inline;
+    
+}
+
+.orange {
+    font-family: "Poppins";
+    color: orange;
+
+}
+
+.pop-font{
+    font-family: "Poppins";
+}
+hr {
+    display: inline-block;
+    color: rgb(255, 61, 2);
+    border: 3px solid rgb(245, 80, 4);
+    width: 44%;
+    position:relative;
+    
+}
+
+.level {
+    width: 20px;
+}
+
+
+.the-line{
+    padding-top: 11%;
+    padding-left: 7%;
+}
+
+.contact-me {
+    font-family: "Poppins";
+    text-align: center;
+
+    background-color: rgb(201, 201, 201);
+    border: 2px solid rgb(201, 201, 201);
+   
+   width: 70%;
+   height: 50px;
+   position:absolute;
+    
+}
+
+i {
+    color:orangered
+}
+
+a {
+    
+    text-decoration: none;
+    font-size: large;
+    font-style: bold;
+    color: black;
+}
+
+li {
+    font-family: "Poppins";
+}
